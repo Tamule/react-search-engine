@@ -1,0 +1,18 @@
+* {
+  font-family: poppins;
+  max-width: 700px;
+}
+
+h1 {
+  display: block;
+  text-align: center;
+  font-weight: 800;
+  color: rgb(214, 110, 255);
+  
+}
+h2 {
+  display: block;
+  text-align: center;
+  font-weight: 600;
+  color: rgb(214, 110, 255);
+}
